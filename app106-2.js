@@ -5,6 +5,6 @@ titulo.innerHTML="Hora del desafío"
  //parrafo.innerHTML="Selecciona un número de 1 a 10";
 
 
- function alertFunction() {
-     alert("¡Hola, has hecho clic en el botón!");
-   }
+ //function alertFunction() {
+ //    alert("¡Hola, has hecho clic en el botón!");
+ //  }
