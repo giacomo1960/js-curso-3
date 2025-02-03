@@ -6,5 +6,8 @@ titulo.innerHTML="Hora del desafío"
 
 
  function consoleFunction () {
-    alert("¡El boton fue clicado!");
-  }
+    // para que apraezca en la web
+    // alert("¡El boton fue clicado!");
+    // otra alternativa con console.log
+console.log("¡El boton fue clicado!");
+}
